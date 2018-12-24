@@ -7,3 +7,7 @@ In the early 2000s, blogging emerged in all different phases when several politi
 
 Definition of blogging
 Blogging is the many skills that one needs to run and control a blog. Equipping web page with tools to make the process of writing, posting, linking, and sharing content easier on the internet.
+
+# Developers
+-Saksham Sharma<br>
+<a href="https://github.com/Sakshamoo17">Github</a>
