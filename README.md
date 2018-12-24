@@ -11,3 +11,5 @@ Blogging is the many skills that one needs to run and control a blog. Equipping 
 # Developers
 -Saksham Sharma<br>
 <a href="https://github.com/Sakshamoo17">Github</a>
+<br>
+<a href="https://www.linkedin.com/in/saksham-sharma-bb576b167/">Linkedin</a>
